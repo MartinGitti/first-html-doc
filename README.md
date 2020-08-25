@@ -2,7 +2,7 @@
 
 ## Welcome to the start of my journey into the coding field!!!
 
-This is my very first html document viewed in the browser.
+<p>This is my very first html document viewed in the browser.</p>
 
 <b>There are two projects attacted to this project:</b>
 
