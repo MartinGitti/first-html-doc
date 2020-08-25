@@ -11,4 +11,5 @@ This is my very first html document viewed in the browser.
 
 ### Page 1 Example:
 
-<img src="./images-of -page/htmlDoc.JPG" alt="View of html page">
+<img src="./images-of-page/htmlDoc.JPG" alt="View of html page layout">
+<img src="./images-of-page/htmlTables.JPG" alt="View of html page on tables">
