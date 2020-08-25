@@ -8,3 +8,7 @@ This is my very first html document viewed in the browser.
 
 * The first project focuses on the standard HTML page layout.
 * The second project focuses on HTML data tables.
+
+### Page 1 Example:
+
+<img src="./images-of-page/htmlDoc.JPG"
