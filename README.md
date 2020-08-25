@@ -4,7 +4,7 @@
 
 This is my very first html document viewed in the browser.
 
-There are two projects attacted to this project:
+<b>There are two projects attacted to this project:</b>
 
 * The first project focuses on the standard HTML page layout.
 * The second project focuses on HTML data tables.
