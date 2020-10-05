@@ -15,4 +15,9 @@ This is my very first html document that I put together that can be viewed in th
 ## Page 2 Example, HTML tables:
 <img src="./images-of-page/htmlTables.JPG" alt="View of html page on tables">
 
+### In order to use the above code:
+<p>Load the code to your local drive.</p>
+<p>Once on your local drive, it must be opened in a browser of your choose to view the pages.</p>
+<p>To edit the code to your liking, I'd recommend using a text editor like 'Sublime Text' or 'Visual Studio Code'.</p>
+
 Happy Coding :sunglasses:
